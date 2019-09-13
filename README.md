@@ -7,7 +7,5 @@ This is a netflix clone (sort of) built using django and uses youtube and the mo
 * Youtube API
 * TMDB API
 
-##Author
-Ian Kipkoech
 ##Contact
 For any enquiries and support contact eyernfuture@gmail.com 
